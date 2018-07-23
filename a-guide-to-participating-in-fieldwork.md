@@ -25,4 +25,5 @@ We can get any images or other files from you during this debrief, as well.
 At the end of each day or thereabouts, we’ll send out highlights for each of the interviews so everyone can hear a little bit about what’s been happening. If you want to add your own thoughts to the thread, we’d love that!
 
 _Note: For much more, see [Steve Portigal's Interviewing Users: How to Uncover Compelling Insights](http://rosenfeldmedia.com/books/interviewing-users/)_
+
 _Note: Shared here with permission. [Original source](https://rosenfeldmedia.com/wp-content/uploads/2014/10/Portigal-Consulting-A-Guide-to-Participating-in-Fieldwork.pdf)_
